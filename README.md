@@ -17,7 +17,7 @@ Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholi
 ## Dataset
 Original Owner: 
 Henri Begleiter 
-Neurodynamics Laboratory, 
+<br>Neurodynamics Laboratory, 
 State University of New York Health Center 
 Brooklyn, New York 
 
