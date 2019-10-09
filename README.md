@@ -13,3 +13,12 @@ Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholi
 - [ML Algos](https://github.com/ButternCream/eeg-classification)
 - [VGG13 PyTorch Implementation](https://github.com/bridenmj/EEG_Alcoholism_Classification)
 - [MNE Library](https://www.nmr.mgh.harvard.edu/mne/stable/documentation.html#collapse_visualization)
+
+## Dataset
+Original Owner: 
+Henri Begleiter 
+Neurodynamics Laboratory, 
+State University of New York Health Center 
+Brooklyn, New York 
+
+[Download Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full.tar)
