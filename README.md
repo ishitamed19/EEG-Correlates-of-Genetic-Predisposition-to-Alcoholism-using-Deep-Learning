@@ -2,7 +2,7 @@
 Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholism
 
 ## TODO:
-- [ ] Create a python script to importing dataset
+- [X] Create a python script to importing dataset
 - [ ] iPython notebook for Data visualisation techniques
 - [ ] Applying basic ML algorithms - KNN, Random Forests
 - [ ] Applying DL algos - VGG13, Resnet, RNNs etc.
