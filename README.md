@@ -5,7 +5,15 @@ Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholi
 - [X] Create a python script to importing dataset
 - [X] iPython notebook for Data visualisation techniques
 - [ ] Applying basic ML algorithms - KNN, Random Forests
-- [ ] Applying DL algos - VGG13, Resnet, RNNs etc.
+- [X] Applying CNN algo - Inception-V3
+- [ ] Apply simple NN
+
+## Statistics:
+| Algorithm           | Accuracy | F1-Score |
+|---------------------|----------|----------|
+| Logistic Regression | 0.75     | 0.8      |
+| SVM                 | 0.8      | 0.857    |
+| CNN - Inception V3  | 0.57     | -        |
 
 ## References:
 - [Importing](https://github.com/shubham-singh-ss/EEG-Correlation-Of-Genetic-Predisposition-To-Alcoholism/blob/master/EEG%20data%20analysis.ipynb)
