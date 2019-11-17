@@ -15,6 +15,7 @@ Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholi
 | SVM                 | 0.8      | 0.857    |
 | 3-layer CNN         | 0.875    | 0.86     |
 | 5-layer CNN         | 0.775    | 0.78     |
+| ResNet              | 0.725    | 0.73     | 
 
 ## References:
 - [Importing](https://github.com/shubham-singh-ss/EEG-Correlation-Of-Genetic-Predisposition-To-Alcoholism/blob/master/EEG%20data%20analysis.ipynb)
