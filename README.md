@@ -30,3 +30,9 @@ State University of New York Health Center
 Brooklyn, New York 
 
 [Download Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full.tar)
+
+## Members:
+[Ishita Mediratta]
+[Karuna Grewal]
+[Sonali Saksena]
+[Chinmay Gupta]
