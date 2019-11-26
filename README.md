@@ -2,10 +2,10 @@
 Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholism
 
 ## Members:
--Ishita Mediratta
--Karuna Grewal
--Sonali Saksena
--Chinmay Gupta
+- Ishita Mediratta
+- Karuna Grewal
+- Sonali Saksena
+- Chinmay Gupta
 
 ## TODO:
 - [X] Create a python script to importing dataset
