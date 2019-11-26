@@ -1,6 +1,12 @@
 # BITS-F315-Project
 Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholism
 
+## Members:
+-Ishita Mediratta
+-Karuna Grewal
+-Sonali Saksena
+-Chinmay Gupta
+
 ## TODO:
 - [X] Create a python script to importing dataset
 - [X] iPython notebook for Data visualisation techniques
@@ -31,8 +37,4 @@ Brooklyn, New York
 
 [Download Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/eeg_full.tar)
 
-## Members:
-[Ishita Mediratta]
-[Karuna Grewal]
-[Sonali Saksena]
-[Chinmay Gupta]
+
