@@ -26,7 +26,6 @@ Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholi
 | Random Forest       | 0.75     |  0.8     |
 
 ## References:
-- [Importing](https://github.com/shubham-singh-ss/EEG-Correlation-Of-Genetic-Predisposition-To-Alcoholism/blob/master/EEG%20data%20analysis.ipynb)
 - [MNE Library](https://www.nmr.mgh.harvard.edu/mne/stable/documentation.html#collapse_visualization)
 
 ## Dataset
