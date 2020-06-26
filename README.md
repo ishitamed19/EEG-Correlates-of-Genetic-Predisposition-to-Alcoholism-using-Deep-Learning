@@ -1,5 +1,6 @@
 # BITS-F315-Project
 Using Deep Learning to find EEG correlates of genetic-predisposition to alcoholism
+[Presentation](https://docs.google.com/presentation/d/11II0xZOg5to_oRQieW8ru3PeG7pzd_G7X2myi97U8bs/edit?usp=sharing)
 
 ## Members:
 - Ishita Mediratta
